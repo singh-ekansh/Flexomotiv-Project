@@ -1,1 +1,1 @@
-# flexomotiv-project
+# Flexmotiv Project - Frontend
